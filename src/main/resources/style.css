@@ -1,0 +1,24 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    color: red;
+}
+
+.menu {
+    background-color: white;
+    width: 250px;
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+button {
+    background-color: red;
+    color: white;
+    padding: 8px;
+    border: none;
+}
